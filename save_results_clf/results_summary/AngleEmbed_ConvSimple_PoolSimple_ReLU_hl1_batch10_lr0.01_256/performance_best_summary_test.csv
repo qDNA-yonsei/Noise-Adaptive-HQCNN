@@ -1,0 +1,55 @@
+﻿Device,Dataset,Model,Qubits,binary_cross_entropy_loss,accuracy
+noiseless,Train,QCNN,4,0.5188 ± 0.0335,85.2 ± 1.1511
+noiseless,Train,QCNN,8,0.6101 ± 0.0129,85.0 ± 2.7613
+noiseless,Train,QCNN,10,0.6026 ± 0.0333,67.8 ± 15.7385
+noiseless,Train,HQCNN-EZ,4,0.4427 ± 0.0917,84.4 ± 0.6519
+noiseless,Train,HQCNN-EZ,8,0.4237 ± 0.0643,86.7 ± 1.3038
+noiseless,Train,HQCNN-EZ,10,0.3432 ± 0.068,88.5 ± 1.9039
+noiseless,Train,HQCNN-EM,4,0.3785 ± 0.0149,84.7 ± 1.2042
+noiseless,Train,HQCNN-EM,8,0.3242 ± 0.0158,85.9 ± 0.7416
+noiseless,Train,HQCNN-EM,10,0.3265 ± 0.053,88.2 ± 0.6708
+noiseless,Test,QCNN,4,0.4706 ± 0.0478,93.0 ± 1.2748
+noiseless,Test,QCNN,8,0.6041 ± 0.014,88.5 ± 4.1231
+noiseless,Test,QCNN,10,0.5969 ± 0.049,68.2 ± 17.8241
+noiseless,Test,HQCNN-EZ,4,0.3571 ± 0.1268,92.7 ± 0.5701
+noiseless,Test,HQCNN-EZ,8,0.3898 ± 0.0727,91.7 ± 1.255
+noiseless,Test,HQCNN-EZ,10,0.3258 ± 0.073,90.9 ± 1.8841
+noiseless,Test,HQCNN-EM,4,0.2529 ± 0.016,93.6 ± 0.6519
+noiseless,Test,HQCNN-EM,8,0.2472 ± 0.013,92.7 ± 0.4472
+noiseless,Test,HQCNN-EM,10,0.3024 ± 0.0611,91.2 ± 0.9747
+FakeGuadalupeV2,Train,QCNN,4,0.5622 ± 0.0312,83.3 ± 2.1095
+FakeGuadalupeV2,Train,QCNN,8,0.6573 ± 0.0051,68.2 ± 4.8683
+FakeGuadalupeV2,Train,QCNN,10,0.6546 ± 0.0224,58.7 ± 7.5465
+FakeGuadalupeV2,Train,HQCNN-EZ,4,0.4851 ± 0.1039,84.2 ± 0.9083
+FakeGuadalupeV2,Train,HQCNN-EZ,8,0.5223 ± 0.0964,83.2 ± 4.5083
+FakeGuadalupeV2,Train,HQCNN-EZ,10,0.4816 ± 0.0857,85.4 ± 2.4597
+FakeGuadalupeV2,Train,HQCNN-EM,4,0.4051 ± 0.0317,85.5 ± 0.6124
+FakeGuadalupeV2,Train,HQCNN-EM,8,0.3615 ± 0.0131,85.7 ± 1.0954
+FakeGuadalupeV2,Train,HQCNN-EM,10,0.3688 ± 0.0525,86.6 ± 2.2749
+FakeGuadalupeV2,Test,QCNN,4,0.5207 ± 0.0378,92.6 ± 1.4748
+FakeGuadalupeV2,Test,QCNN,8,0.6548 ± 0.007,70.1 ± 4.0373
+FakeGuadalupeV2,Test,QCNN,10,0.6501 ± 0.0285,59.4 ± 8.7707
+FakeGuadalupeV2,Test,HQCNN-EZ,4,0.4227 ± 0.1408,92.0 ± 1.7678
+FakeGuadalupeV2,Test,HQCNN-EZ,8,0.4976 ± 0.1166,85.9 ± 10.3586
+FakeGuadalupeV2,Test,HQCNN-EZ,10,0.4583 ± 0.1083,86.2 ± 5.0075
+FakeGuadalupeV2,Test,HQCNN-EM,4,0.2947 ± 0.0436,93.2 ± 0.7583
+FakeGuadalupeV2,Test,HQCNN-EM,8,0.279 ± 0.0105,92.3 ± 0.7583
+FakeGuadalupeV2,Test,HQCNN-EM,10,0.3348 ± 0.0783,89.8 ± 2.9917
+AerSim with backend noise,Train,QCNN,4,0.5852 ± 0.0262,82.8 ± 2.2804
+AerSim with backend noise,Train,QCNN,8,0.6643 ± 0.016,66.8 ± 10.0908
+AerSim with backend noise,Train,QCNN,10,0.6505 ± 0.0351,59.1 ± 2.8592
+AerSim with backend noise,Train,HQCNN-EZ,4,0.4956 ± 0.1131,81.8 ± 4.396
+AerSim with backend noise,Train,HQCNN-EZ,8,0.489 ± 0.0784,84.4 ± 2.9026
+AerSim with backend noise,Train,HQCNN-EZ,10,0.4543 ± 0.0844,84.7 ± 2.3875
+AerSim with backend noise,Train,HQCNN-EM,4,0.4031 ± 0.015,85.1 ± 0.6519
+AerSim with backend noise,Train,HQCNN-EM,8,0.3719 ± 0.0379,86.4 ± 1.8507
+AerSim with backend noise,Train,HQCNN-EM,10,0.3812 ± 0.0805,86.7 ± 2.8853
+AerSim with backend noise,Test,QCNN,4,0.5602 ± 0.0314,89.8 ± 2.0187
+AerSim with backend noise,Test,QCNN,8,0.6632 ± 0.0157,66.1 ± 6.9498
+AerSim with backend noise,Test,QCNN,10,0.6439 ± 0.0336,62.1 ± 5.5946
+AerSim with backend noise,Test,HQCNN-EZ,4,0.4375 ± 0.1513,90.3 ± 4.396
+AerSim with backend noise,Test,HQCNN-EZ,8,0.4549 ± 0.0945,90.1 ± 3.1105
+AerSim with backend noise,Test,HQCNN-EZ,10,0.4315 ± 0.1092,87.6 ± 4.9548
+AerSim with backend noise,Test,HQCNN-EM,4,0.2882 ± 0.0212,92.8 ± 1.3509
+AerSim with backend noise,Test,HQCNN-EM,8,0.2982 ± 0.0385,91.8 ± 0.6708
+AerSim with backend noise,Test,HQCNN-EM,10,0.343 ± 0.1043,90.1 ± 2.0736

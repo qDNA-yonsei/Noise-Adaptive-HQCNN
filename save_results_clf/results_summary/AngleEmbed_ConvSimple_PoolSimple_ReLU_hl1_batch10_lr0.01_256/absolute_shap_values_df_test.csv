@@ -1,0 +1,541 @@
+﻿,Device,Qubits,Model,Model_spec,sim_iter_num,Input_Feature,Abs_SHAP,Rank_Abs_SHAP
+0,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.08160953580525529,2
+1,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.1369406062483722,1
+2,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.03638263788256154,2
+3,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.053387485387556805,1
+4,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.15649749449454248,1
+5,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.07439454480379937,2
+6,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.1994108648528345,1
+7,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.06083376078197034,2
+8,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.10411397925257916,1
+9,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.07213583031129019,2
+10,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.08597416047006845,2
+11,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.09074008927805152,1
+12,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.030457798378920417,1
+13,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.009803332703086198,2
+14,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.1511526437336579,1
+15,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.03007959324750118,2
+16,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.186441495034378,1
+17,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.03869635683920933,2
+18,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.15995593524508878,1
+19,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.07343957291726838,2
+20,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.07471686924080131,1
+21,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.01640655862938729,2
+22,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.02921157326665707,1
+23,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.0064054387251962904,2
+24,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.1878119752148632,1
+25,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.03896355486882385,2
+26,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.21684140193392523,1
+27,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.01785291439126013,2
+28,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.1298325994750485,1
+29,AerSim with backend noise,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.04392478194960859,2
+30,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.3626888555660844,1
+31,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.033859675894491376,3
+32,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.0028113617031340255,6
+33,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.07610462344717234,2
+34,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.018273278363813004,5
+35,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.032488269077730364,4
+36,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.14370945381640923,2
+37,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.1877883862948511,1
+38,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.016454422792212427,6
+39,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.10268843982135877,4
+40,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.1057425333574065,3
+41,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.018678998731047614,5
+42,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.04583591579925269,1
+43,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.0030542472940396693,5
+44,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.0036162099045850484,4
+45,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.014953922837230493,3
+46,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.035782147148029256,2
+47,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.002313447350370552,6
+48,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.004442755760974251,6
+49,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.03956820455357956,3
+50,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.024169339560103253,5
+51,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.025622708694936592,4
+52,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.1282854249259981,1
+53,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.0506482825499188,2
+54,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.34914049103928846,1
+55,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.11146508321020519,2
+56,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.01838055966902175,5
+57,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.024824779893533558,4
+58,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.07599504961573984,3
+59,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.0076912805392476006,6
+60,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.3673296652920544,1
+61,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.04613964727581333,2
+62,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.0029527218032490057,6
+63,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.03910728587958147,3
+64,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.015092560029843298,5
+65,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.01954148623291985,4
+66,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.1626808458028245,1
+67,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.13505910894018597,2
+68,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.00738292962878404,6
+69,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.10124782503233291,4
+70,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.11449218440713593,3
+71,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.019600925745162385,5
+72,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.04231359496916411,2
+73,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.002878648432491673,5
+74,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.0062550089247088185,4
+75,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.017441162374252597,3
+76,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.05400418284327316,1
+77,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.002499402138091682,6
+78,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.0051984835703751744,6
+79,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.045404477891661375,3
+80,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.02930294246049016,5
+81,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.029669097945061368,4
+82,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.1825084622495342,1
+83,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.05454022608211744,2
+84,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.3736083980742842,1
+85,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.01822394047085254,4
+86,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.0007706115173865413,6
+87,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.03256675779353827,3
+88,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.015457488964657387,5
+89,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.053502108028551446,2
+90,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.3739625058998354,1
+91,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.038956782359746284,2
+92,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.0009609089527430114,6
+93,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.034544578698896655,3
+94,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.026509780445521755,4
+95,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.01097011196801759,5
+96,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.02866125625987479,2
+97,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.0024012655487968006,6
+98,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.0025658727198890575,5
+99,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.004388026534061282,4
+100,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.08599134879070335,1
+101,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.02025969751377488,3
+102,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.4253576330281794,1
+103,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.0295578475424918,4
+104,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.0006764989082876128,6
+105,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.03183788760128664,3
+106,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.08046536745980121,2
+107,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.0019493733870126562,5
+108,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.008659763132491206,6
+109,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.03976330310673802,3
+110,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.03291951587867516,5
+111,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.03746170085039921,4
+112,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.2465881028585136,1
+113,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.04777082638862339,2
+114,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.3341880553588271,1
+115,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.019839263413996378,2
+116,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.0009402964040668848,6
+117,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.010546408457557846,4
+118,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.003981027095032914,5
+119,AerSim with backend noise,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.014539749375508108,3
+120,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.14039165965165012,1
+121,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.04265651051452551,2
+122,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.024378940167662223,3
+123,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.0778996022825595,1
+124,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.031591570439704814,3
+125,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.04420714949024841,2
+126,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.1528780396701768,1
+127,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.016745119070073998,3
+128,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.06245249349251026,2
+129,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.23753290481166914,1
+130,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.033306988202702996,2
+131,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.013169531103349926,3
+132,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.11189425339143781,1
+133,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.03418011190724428,2
+134,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.013625774163156166,3
+135,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.08154776150920952,1
+136,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.029702479464358476,2
+137,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.011136474597733467,3
+138,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.1918767457967624,1
+139,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.06309844954812434,2
+140,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.034304378798988185,3
+141,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.061976344488211904,1
+142,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.004431783064574119,3
+143,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.015359160173247802,2
+144,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.21142458812886616,1
+145,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.0029540896299658924,3
+146,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.009560140905123263,2
+147,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.08457123659783974,1
+148,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.02345663064617838,2
+149,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.006822974294191226,3
+150,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.09929422982488177,1
+151,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.005168031511038862,3
+152,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.038763823146000506,2
+153,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.16266986779868603,1
+154,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.06716455692105228,2
+155,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.05785860729403794,3
+156,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.09006379022670444,1
+157,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.007970542453695089,3
+158,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.030076307024864947,2
+159,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.22006232439831364,1
+160,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.0015539406142499957,3
+161,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.006518376970889222,2
+162,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.1072845053311903,1
+163,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.030856509070144967,2
+164,AerSim with backend noise,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.013279324989962333,3
+165,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.306152486409992,1
+166,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.018644603166794695,4
+167,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_2,0.0028390774027457154,6
+168,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.0004717096029230561,9
+169,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.002575397114633233,7
+170,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_2,0.039302239116696,3
+171,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.00679572705839746,5
+172,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.04017432131091482,2
+173,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.0012876935833332937,8
+174,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.07262635258929094,2
+175,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.006452946169956703,3
+176,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_2,0.0016588987730142436,6
+177,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.00014153417820503834,9
+178,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.0021936272103448575,4
+179,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_2,0.0015781631449391397,7
+180,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.08259419835318113,1
+181,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.0008401985381124177,8
+182,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.002119127749501786,5
+183,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.05977399162249639,1
+184,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.012576267943368294,3
+185,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_2,0.004084327179771208,5
+186,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.0008805499441541542,8
+187,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.00887197315612866,4
+188,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_2,0.0009593077563476982,7
+189,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.058119563742075116,2
+190,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.0014597377476570728,6
+191,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.0006384459719106417,9
+192,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.060591846403040106,1
+193,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.009566322261835012,6
+194,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_2,0.02706514287376194,3
+195,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.02437309452580848,4
+196,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.0002111473761951288,9
+197,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_2,0.004687596863423096,7
+198,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.037256522981679155,2
+199,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.010699336523489365,5
+200,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.002616614608596137,8
+201,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.02060751239594538,3
+202,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.0645126818306744,2
+203,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_2,0.007332328734919429,5
+204,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.015164323977915046,4
+205,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.004261128363195894,6
+206,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_2,0.0006550588273057656,9
+207,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.06914861760800704,1
+208,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.0007452136580002388,8
+209,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.0022478910325571633,7
+210,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.3519323762576096,1
+211,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.015205857479240876,5
+212,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_2,0.010734349820522767,6
+213,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.005525485720427241,9
+214,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.005907912071106694,7
+215,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_2,0.024513769855257123,2
+216,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.021913309218289215,3
+217,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.018975280814338476,4
+218,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.00559243894633255,8
+219,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.06481063485640334,2
+220,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.005134783476096345,3
+221,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_2,0.0003825871300091421,9
+222,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.0009024800705799408,7
+223,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.0011398516265278857,5
+224,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_2,0.0010426184684365581,6
+225,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.07744505946029676,1
+226,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.0005180536045179451,8
+227,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.002227177554068476,4
+228,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.0837635049619712,1
+229,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.01415045319356068,3
+230,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_2,0.0011923979192744127,5
+231,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.0011911941496259716,6
+232,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.0033522256565629506,4
+233,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_2,0.0008562055598281404,7
+234,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.0585973646803177,2
+235,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.00020711769170418394,9
+236,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.0007836397642859084,8
+237,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.20019209603313357,1
+238,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.005021745784815721,7
+239,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_2,0.02392215252015376,3
+240,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.008198502299201209,6
+241,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.0009216293559893529,9
+242,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_2,0.015322170144709163,5
+243,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.09609110388148111,2
+244,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.017456547616093304,4
+245,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.0016004280996912712,8
+246,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.027301609940659544,3
+247,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.0470624943220173,2
+248,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_2,0.004795496867764086,4
+249,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.004470101359534056,5
+250,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.0018983841610582886,6
+251,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_2,0.00042302933918790585,9
+252,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.05361742496250372,1
+253,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.0006683785691257071,8
+254,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.0018707761616451534,7
+255,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.09094259651261381,1
+256,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.014253719401531272,3
+257,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_2,0.007382407768013763,5
+258,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.0018033496938551251,7
+259,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.007540090668799166,4
+260,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_2,0.00012286608905739626,9
+261,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.08550071440578905,2
+262,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.0041375319350572684,6
+263,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.0013459591046131435,8
+264,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.07819520263124105,1
+265,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.006950851535439142,3
+266,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_2,0.0015459546336921903,5
+267,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.0003404381604406126,9
+268,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.0018833075001475662,4
+269,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_2,0.0006776480172993615,7
+270,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.07498352034082928,2
+271,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.0003928751252396978,8
+272,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.0011591048868774578,6
+273,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.06527552233121242,1
+274,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.011238054352033941,3
+275,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_2,0.0011738371360297606,7
+276,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.001765484816701246,5
+277,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.007470308550182381,4
+278,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_2,0.0010662382005779136,8
+279,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.06479913725488587,2
+280,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.0015365022921423588,6
+281,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.00023044303005825384,9
+282,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.13567660517132027,1
+283,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.004120138135222078,6
+284,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_2,0.037193383315316166,3
+285,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.020150512232885377,4
+286,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,7.017618217787458e-05,9
+287,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_2,0.003794529431797855,7
+288,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.08749409113253932,2
+289,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.017791052616230443,5
+290,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.0018042707923245872,8
+291,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.037132465734060816,3
+292,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.05564857537683565,2
+293,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_2,0.004424704768641732,4
+294,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.0024608131993272765,5
+295,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.0015310683047937345,7
+296,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_2,0.0007386202903819594,8
+297,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.05853061522556345,1
+298,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.00024195273709310072,9
+299,AerSim with backend noise,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.0021100455598889313,6
+300,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.12698641213472,2
+301,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.02444560833653668,4
+302,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.10085870696551864,3
+303,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_3,0.13485888159717432,1
+304,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.18043100285110994,1
+305,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.04227128783699299,2
+306,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.00961508329564822,4
+307,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_3,0.02594591412176669,3
+308,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.14545884942468545,2
+309,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.2277238155773375,1
+310,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.04284776499247528,4
+311,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_3,0.0842258686463174,3
+312,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.22447698055049842,1
+313,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.1355060874235278,2
+314,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.039669301010872,3
+315,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_3,0.03958869706733822,4
+316,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.11454746753966902,1
+317,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.074066955303133,2
+318,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.01969571499488666,4
+319,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_3,0.03285804921819363,3
+320,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.1299509788490832,1
+321,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.021849895799387013,4
+322,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.046226113415941655,3
+323,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_3,0.05039914395638334,2
+324,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.18029490617336705,1
+325,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.037815112948883324,2
+326,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.0016135560249858827,4
+327,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_3,0.02093275803461438,3
+328,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.11973133544146548,1
+329,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.04628394635976292,2
+330,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.013266601323266514,4
+331,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_3,0.031859830082412374,3
+332,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.21823384552611969,1
+333,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.08992832152114716,2
+334,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.007673570977203781,4
+335,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_3,0.02308286397514749,3
+336,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.047009356495036625,1
+337,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.026055586296279215,2
+338,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.011117010874513653,3
+339,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_3,0.008824128526030109,4
+340,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.13507358037837547,1
+341,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.01878235659794882,4
+342,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.044143483606167135,3
+343,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_3,0.04780829010909656,2
+344,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.19181367270299232,1
+345,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.03919244415475987,2
+346,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.001597134200367236,4
+347,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_3,0.016398732117231703,3
+348,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.1278766996734703,1
+349,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.06061132403105148,3
+350,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.015131000744604535,4
+351,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_3,0.07225306315929629,2
+352,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.21345343056949787,1
+353,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.06697002620843705,2
+354,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.0024880445526468974,4
+355,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_3,0.020303926649794447,3
+356,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.06083110914958525,1
+357,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.03854688538245682,2
+358,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.004950558676573564,4
+359,AerSim with backend noise,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_3,0.013142734597349772,3
+360,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.13599047114141286,2
+361,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.04703464850259479,6
+362,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_2,0.05821143163586385,4
+363,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_3,0.016627708815649386,8
+364,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.052348454547754955,5
+365,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.00819467043293116,10
+366,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_2,0.0026065132932853886,12
+367,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_3,0.015128903510412784,9
+368,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.17069948988733813,1
+369,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.034295831414565325,7
+370,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.0030669795841458836,11
+371,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_3,0.06688558932291926,3
+372,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.38992878757417204,1
+373,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.023550842083523094,3
+374,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_2,0.00043724901371518856,12
+375,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_3,0.00807294252430438,7
+376,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.013454540629682014,4
+377,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.002262353006753983,10
+378,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_2,0.0040290728097170355,8
+379,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_3,0.01316925290537256,5
+380,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.06279272783325723,2
+381,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.003170289719309949,9
+382,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.0006775027703292835,11
+383,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_3,0.008757824688418623,6
+384,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.4544386065332219,1
+385,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.0018978026149261496,11
+386,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_2,0.06184143904218217,3
+387,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_3,0.011336211566044767,7
+388,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.010133676483346789,8
+389,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.0035178014788107247,10
+390,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_2,0.0038465955107113816,9
+391,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_3,0.017812810882169287,6
+392,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.06282853843154954,2
+393,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.04574380089070473,4
+394,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.0011987305245179413,12
+395,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_3,0.029654291409269718,5
+396,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.022572039991791824,2
+397,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.013854533901758259,4
+398,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_2,0.0008887617351753363,12
+399,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_3,0.0010314781563391761,11
+400,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.012014521854034683,5
+401,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.002342823350297749,9
+402,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_2,0.0017590843803873212,10
+403,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_3,0.0038225863783554813,7
+404,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.02780659288913739,1
+405,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.01618306490271607,3
+406,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.0034596353432402795,8
+407,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_3,0.009438011276906765,6
+408,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.2062413290591212,1
+409,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.045484081930771934,4
+410,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_2,0.0010890388792353179,8
+411,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_3,0.010214378194687014,5
+412,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,9.410616641503111e-05,12
+413,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.000798911024512563,11
+414,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_2,0.004763513348279957,7
+415,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_3,0.007021844621208402,6
+416,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.1055195567056944,3
+417,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.12183346454286947,2
+418,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.0008188340216929646,10
+419,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_3,0.0008520503457634731,9
+420,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.2101427796157077,1
+421,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.016268991721008205,4
+422,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_2,0.014167855111154495,5
+423,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_3,0.009851334161794512,9
+424,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.06698975572333438,3
+425,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.00419455935316364,10
+426,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_2,0.0026340632067831395,12
+427,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_3,0.009892331290757284,8
+428,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.10103051786296419,2
+429,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.013460850619958364,6
+430,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.0029731838717907523,11
+431,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_3,0.013136950309417443,7
+432,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.36274055854417386,1
+433,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.017862151302870187,3
+434,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_2,0.004875677420131979,6
+435,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_3,0.0026400834970309005,9
+436,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.004382142011399992,7
+437,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.003522802711395343,8
+438,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_2,0.0022281173280953226,11
+439,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_3,0.0025403673966684437,10
+440,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.07193855995208195,2
+441,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.001320504001369045,12
+442,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.006026062453402119,5
+443,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_3,0.007738749940035632,4
+444,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.39742729985099684,1
+445,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.009493218926363624,6
+446,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_2,0.016918510953182704,3
+447,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_3,0.000576542416998791,11
+448,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.01015952306046529,5
+449,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.00045667711643432085,12
+450,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_2,0.003635178599779465,7
+451,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_3,0.0008241307006551324,10
+452,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.0869091671158094,2
+453,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.011558700022287666,4
+454,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.0026512077594088622,8
+455,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_3,0.001244015416207276,9
+456,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.14025099035468883,1
+457,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.057675537609902676,3
+458,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_2,0.0015106557773378881,12
+459,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_3,0.0034304655467167324,10
+460,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.014505688170174835,5
+461,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.006495383688265974,8
+462,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_2,0.0030954624250443884,11
+463,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_3,0.012526201842993032,7
+464,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.11139727854009834,2
+465,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.03971453182573896,4
+466,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.005186874586249246,9
+467,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_3,0.014461534256879531,6
+468,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.2575818985013757,1
+469,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.0415805787127465,3
+470,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_2,0.0018555532469417813,9
+471,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_3,0.0018605492350070563,8
+472,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.005072426621991326,6
+473,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.018409284566296265,5
+474,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_2,0.003915223706762845,7
+475,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_3,0.0006333659044935303,11
+476,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.13135566535784166,2
+477,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.04020314181670983,4
+478,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.000741751288217074,10
+479,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_3,0.00028798163757073783,12
+480,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_0,0.16698318138893228,1
+481,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_1,0.02485860165586928,4
+482,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_2,0.0031560898927045855,9
+483,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨X⟩_3,0.0016684777972477605,11
+484,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_0,0.06332527818030939,3
+485,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_1,0.0016174840156600112,12
+486,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_2,0.0035847919044499576,8
+487,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Y⟩_3,0.00811534544675851,6
+488,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_0,0.08130148242402356,2
+489,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_1,0.018952963018055016,5
+490,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_2,0.0030715548444607064,10
+491,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,⟨Z⟩_3,0.006983682301142835,7
+492,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_0,0.3595843616127968,1
+493,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_1,0.020893703250076213,3
+494,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_2,0.0043645608489259755,8
+495,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨X⟩_3,0.004315665623198584,9
+496,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_0,0.008472148514774744,5
+497,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_1,0.003516896725050174,10
+498,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_2,0.00038178605555231113,12
+499,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Y⟩_3,0.005358418309451735,7
+500,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_0,0.06785817243449856,2
+501,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_1,0.0012902688834401487,11
+502,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_2,0.005498044062096597,6
+503,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,⟨Z⟩_3,0.015324878961691865,4
+504,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_0,0.41105454981327055,1
+505,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_1,0.0038714742074034804,6
+506,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_2,0.049633675672812384,3
+507,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨X⟩_3,0.0011189130640605071,10
+508,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_0,0.004426370793616456,5
+509,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_1,0.0018811228403592395,7
+510,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_2,0.000561857139527433,11
+511,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Y⟩_3,0.001598446224638792,9
+512,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_0,0.060047968182188924,2
+513,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_1,0.01810620277421549,4
+514,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_2,0.0016318766637778027,8
+515,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,⟨Z⟩_3,0.00021698757313743045,12
+516,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_0,0.13930004986468703,1
+517,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_1,0.04268128119612811,3
+518,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_2,0.0002041345400175487,12
+519,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨X⟩_3,0.00861854722186763,8
+520,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_0,0.0225282787339529,5
+521,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_1,0.0032228865552315256,10
+522,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_2,0.0011026706035272582,11
+523,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Y⟩_3,0.014723170554816534,6
+524,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_0,0.1009961873005841,2
+525,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_1,0.037773583384405354,4
+526,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_2,0.0043309940449762505,9
+527,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,⟨Z⟩_3,0.011589822334390192,7
+528,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_0,0.24829890891502146,1
+529,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_1,0.048726145446999,4
+530,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_2,0.006555650936161328,8
+531,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨X⟩_3,0.0005743413424681876,12
+532,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_0,0.008030178250282915,7
+533,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_1,0.008604907202352479,5
+534,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_2,0.0023264481283786155,10
+535,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Y⟩_3,0.008178830787801416,6
+536,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_0,0.1416834745297092,2
+537,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_1,0.06346699742833152,3
+538,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_2,0.003387897756692837,9
+539,AerSim with backend noise,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,⟨Z⟩_3,0.0008718987195089767,11

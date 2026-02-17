@@ -1,0 +1,7 @@
+Model Structure:
+RegressionModel(
+  (layer1): Linear(in_features=4, out_features=4, bias=True)
+  (layer2): Linear(in_features=4, out_features=4, bias=True)
+  (layer3): Linear(in_features=4, out_features=4, bias=True)
+  (output_layer): Linear(in_features=4, out_features=1, bias=True)
+)
