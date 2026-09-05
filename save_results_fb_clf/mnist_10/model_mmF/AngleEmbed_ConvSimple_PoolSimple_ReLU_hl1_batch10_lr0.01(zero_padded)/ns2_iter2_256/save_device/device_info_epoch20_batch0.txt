@@ -1,0 +1,10 @@
+Backend: aer_simulator_from(ibm_yonsei)
+Backend Description: created by AerSimulator.from_backend
+Backend version: 1.0.149
+Date and time: 2026-08-06 11:55:21
+Num_qubits: 127
+Backend Status: <bound method AerBackend.status of AerSimulator('aer_simulator_from(ibm_yonsei)'
+             noise_model=<NoiseModel on ['ecr', 'id', 'sx', 'reset', 'measure', 'x']>)>
+Backend Operations:[<class 'qiskit.circuit.controlflow.if_else.IfElseOp'>, Instruction(name='rz', num_qubits=1, num_clbits=0, params=[Parameter(λ)]), Instruction(name='ecr', num_qubits=2, num_clbits=0, params=[]), Instruction(name='id', num_qubits=1, num_clbits=0, params=[]), Instruction(name='sx', num_qubits=1, num_clbits=0, params=[]), Instruction(name='reset', num_qubits=1, num_clbits=0, params=[]), Instruction(name='measure', num_qubits=1, num_clbits=1, params=[]), Instruction(name='x', num_qubits=1, num_clbits=0, params=[]), Delay(duration=t[unit=dt])]
+Backend Properties:<qiskit_aer.backends.backendproperties.AerBackendProperties object at 0x7ce0e23598a0>
+Backend Configurations: <qiskit_aer.backends.backendconfiguration.AerBackendConfiguration object at 0x7ce0e235af20>

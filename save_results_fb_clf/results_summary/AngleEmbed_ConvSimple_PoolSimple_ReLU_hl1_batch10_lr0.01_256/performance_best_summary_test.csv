@@ -1,0 +1,5 @@
+﻿Device,Dataset,Model,Qubits,binary_cross_entropy_loss,accuracy
+IBM Quantum backend,Train,QCNN,4,0.4821 ± nan,84.0 ± nan
+IBM Quantum backend,Train,HQCNN-EZ,4,0.5357 ± nan,84.5 ± nan
+IBM Quantum backend,Test,QCNN,4,0.4368 ± nan,90.5 ± nan
+IBM Quantum backend,Test,HQCNN-EZ,4,0.5027 ± nan,93.0 ± nan

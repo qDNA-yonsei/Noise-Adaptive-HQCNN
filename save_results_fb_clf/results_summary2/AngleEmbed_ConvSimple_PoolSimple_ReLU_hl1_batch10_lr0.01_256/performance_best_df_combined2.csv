@@ -1,0 +1,331 @@
+﻿,Device,Qubits,Model,Model_spec,sim_iter_num,Dataset,binary_cross_entropy_loss,accuracy,best_epoch
+0,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.519546627998352,85.5,18.0
+1,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.4725814163684845,92.0,18.0
+2,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.5732280015945435,84.0,16.0
+3,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.5445542335510254,93.0,16.0
+4,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.5007047057151794,87.0,18.0
+5,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.43846485018730164,94.5,18.0
+6,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.48424214124679565,85.0,19.0
+7,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.41962242126464844,94.0,19.0
+8,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.516082227230072,84.5,17.0
+9,noiseless,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.47767433524131775,91.5,17.0
+10,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.562406063079834,82.0,16.0
+11,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.5226013660430908,91.0,16.0
+12,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6090848445892334,82.5,19.0
+13,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.5743529796600342,92.5,19.0
+14,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.5466922521591187,82.0,17.0
+15,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.4872269034385681,95.0,17.0
+16,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.5244680047035217,87.0,19.0
+17,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.4827340841293335,92.5,19.0
+18,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.568501353263855,83.0,18.0
+19,FakeGuadalupeV2,4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.5367853045463562,92.0,18.0
+20,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.5783047676086426,82.5,14.0
+21,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.5601633191108704,88.5,14.0
+22,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6250535845756531,80.5,14.0
+23,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.6100846529006958,88.5,14.0
+24,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.5746017694473267,83.0,19.0
+25,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.5410469770431519,92.0,19.0
+26,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.5545946955680847,86.5,16.0
+27,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.5271415710449219,92.0,16.0
+28,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.5932897329330444,81.5,19.0
+29,AerSim (IBM-Yonsei),4,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.5627243518829346,88.0,19.0
+30,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.46984612941741943,85.0,19.0
+31,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.38691285252571106,92.5,19.0
+32,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.5903858542442322,85.0,19.0
+33,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.5644116401672363,93.0,19.0
+34,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.370039701461792,84.5,19.0
+35,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2570337951183319,92.0,19.0
+36,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.3748761713504791,84.0,19.0
+37,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.2659994959831238,92.5,19.0
+38,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.4084428548812866,83.5,16.0
+39,noiseless,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.31097862124443054,93.5,16.0
+40,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.5204668641090393,85.5,18.0
+41,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.4791299104690552,93.5,18.0
+42,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.652324914932251,84.0,18.0
+43,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.644273579120636,89.0,18.0
+44,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.42812269926071167,84.5,19.0
+45,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.3393026292324066,93.0,19.0
+46,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.40482860803604126,83.0,19.0
+47,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.30142107605934143,92.0,19.0
+48,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.4198743402957916,84.0,17.0
+49,FakeGuadalupeV2,4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.3491877615451813,92.5,17.0
+50,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.566102921962738,84.5,19.0
+51,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.5373736023902893,92.5,19.0
+52,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6565725803375244,74.0,19.0
+53,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.6483504772186279,82.5,19.0
+54,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.3904727101325989,83.0,19.0
+55,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.28607863187789917,92.0,19.0
+56,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.40774035453796387,83.5,19.0
+57,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.33077868819236755,91.5,19.0
+58,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.45689114928245544,84.0,18.0
+59,AerSim (IBM-Yonsei),4,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.38488200306892395,93.0,18.0
+60,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.3542931377887726,86.0,9.0
+61,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.230229914188385,93.5,9.0
+62,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.37686192989349365,85.5,12.0
+63,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.26034262776374817,93.0,12.0
+64,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.39265573024749756,85.0,8.0
+65,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2734479010105133,94.0,8.0
+66,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.38079726696014404,84.0,19.0
+67,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.24734489619731903,93.0,19.0
+68,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.3879263401031494,83.0,11.0
+69,noiseless,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.2533777356147766,94.5,11.0
+70,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.3735826909542084,85.5,18.0
+71,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.2315092533826828,93.5,18.0
+72,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.3958852291107178,86.0,12.0
+73,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.2991228401660919,93.5,12.0
+74,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.411630243062973,85.5,17.0
+75,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2824689745903015,93.0,17.0
+76,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.4562481939792633,84.5,10.0
+77,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.3516695499420166,94.0,10.0
+78,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.38796699047088623,86.0,14.0
+79,FakeGuadalupeV2,4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.3089291751384735,92.0,14.0
+80,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.38460320234298706,85.0,9.0
+81,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.2760978639125824,92.0,9.0
+82,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.403136283159256,84.5,15.0
+83,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.31040704250335693,91.0,15.0
+84,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.39969947934150696,86.0,17.0
+85,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2712670862674713,94.5,17.0
+86,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.4263673424720764,84.5,16.0
+87,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.3121927082538605,93.0,16.0
+88,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.4019392430782318,85.5,16.0
+89,AerSim (IBM-Yonsei),4,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.27116912603378296,93.5,16.0
+90,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.6037487983703613,88.0,17.0
+91,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.5852301120758057,92.0,17.0
+92,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.617857038974762,86.0,14.0
+93,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.610054612159729,89.0,14.0
+94,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6264545321464539,85.5,19.0
+95,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.622959554195404,91.0,19.0
+96,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.6092771291732788,80.5,11.0
+97,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.6040869951248169,89.0,11.0
+98,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.5929273962974548,85.0,19.0
+99,noiseless,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.5982595682144165,81.5,19.0
+100,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.6552958488464355,63.0,19.0
+101,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.6482015252113342,67.5,19.0
+102,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6558291912078857,69.0,19.0
+103,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.649361252784729,76.5,19.0
+104,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6618943214416504,66.0,12.0
+105,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.6611570715904236,71.5,12.0
+106,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.6505312919616699,67.0,13.0
+107,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.6519195437431335,66.5,13.0
+108,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.6627971529960632,76.0,19.0
+109,FakeGuadalupeV2,8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.6634011268615723,68.5,19.0
+110,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.6916593909263611,51.0,11.0
+111,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.6873956322669983,55.0,11.0
+112,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6495650410652161,78.5,19.0
+113,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.6671172976493835,65.5,19.0
+114,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6627442240715027,71.0,18.0
+115,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.657990038394928,72.0,18.0
+116,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.6582211256027222,65.5,12.0
+117,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.6447992920875549,72.0,12.0
+118,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.6592679023742676,68.0,19.0
+119,AerSim (IBM-Yonsei),8,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.6585201025009155,66.0,19.0
+120,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.4356299340724945,87.0,19.0
+121,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.40247321128845215,91.5,19.0
+122,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.3293437957763672,86.0,16.0
+123,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.3049526512622833,90.0,16.0
+124,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.5065234899520874,87.0,19.0
+125,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.48822566866874695,92.0,19.0
+126,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.40550345182418823,85.0,16.0
+127,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.33321693539619446,93.5,16.0
+128,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.44130969047546387,88.5,19.0
+129,noiseless,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.4199599325656891,91.5,19.0
+130,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.5475495457649231,86.5,18.0
+131,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.527407705783844,90.5,18.0
+132,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.40469276905059814,86.0,17.0
+133,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.36970269680023193,91.5,17.0
+134,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6379863619804382,83.0,18.0
+135,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.6316507458686829,88.5,18.0
+136,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.4435092508792877,85.0,15.0
+137,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.383545845746994,91.5,15.0
+138,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.5777738094329834,75.5,18.0
+139,FakeGuadalupeV2,8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.5759292840957642,67.5,18.0
+140,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.5150988101959229,86.5,19.0
+141,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.506747841835022,92.5,19.0
+142,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.401436448097229,83.0,17.0
+143,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.36051833629608154,87.0,17.0
+144,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6081799268722534,80.0,18.0
+145,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.5911665558815002,86.5,18.0
+146,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.447063684463501,85.5,13.0
+147,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.38365375995635986,93.0,13.0
+148,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.47304394841194153,87.0,19.0
+149,AerSim (IBM-Yonsei),8,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.43226704001426697,91.5,19.0
+150,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.30404189229011536,86.0,17.0
+151,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.22529125213623047,93.0,17.0
+152,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.3342885971069336,85.5,13.0
+153,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.24602748453617096,92.5,13.0
+154,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.3390592634677887,85.0,11.0
+155,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.251972496509552,93.0,11.0
+156,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.3104251027107239,87.0,13.0
+157,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.2583644986152649,93.0,13.0
+158,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.33305537700653076,86.0,17.0
+159,noiseless,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.2543119192123413,92.0,17.0
+160,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.36923104524612427,87.5,10.0
+161,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.29142746329307556,91.5,10.0
+162,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.37059593200683594,85.5,12.0
+163,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.27496907114982605,92.0,12.0
+164,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.352629691362381,84.5,14.0
+165,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2726427912712097,93.5,14.0
+166,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.34276461601257324,85.5,17.0
+167,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.2673017382621765,92.0,17.0
+168,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.37207451462745667,85.5,17.0
+169,FakeGuadalupeV2,8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.28869688510894775,92.5,17.0
+170,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.41286125779151917,86.0,19.0
+171,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.35569480061531067,91.0,19.0
+172,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.34915241599082947,85.0,13.0
+173,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.2626435458660126,92.5,13.0
+174,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.3507189154624939,86.5,15.0
+175,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.27692919969558716,91.5,15.0
+176,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.3339170217514038,89.5,16.0
+177,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.27653247117996216,92.5,16.0
+178,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.4127851128578186,85.0,16.0
+179,AerSim (IBM-Yonsei),8,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.31921786069869995,91.5,16.0
+180,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.6225594282150269,74.5,5.0
+181,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.6380106210708618,70.0,5.0
+182,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6263352036476135,78.5,16.0
+183,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.6206300854682922,84.0,16.0
+184,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.5614773631095886,52.5,19.0
+185,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.5428491234779358,49.0,19.0
+186,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.5714612603187561,49.5,17.0
+187,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.5449231863021851,51.0,17.0
+188,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.6313104033470154,84.0,18.0
+189,noiseless,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.638329803943634,87.0,18.0
+190,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.6701515913009644,67.0,4.0
+191,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.6730445027351379,64.5,4.0
+192,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6633483171463013,66.0,18.0
+193,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.6526360511779785,72.0,18.0
+194,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6283490061759949,53.5,16.0
+195,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.6300329566001892,51.5,16.0
+196,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.6331505179405212,50.0,19.0
+197,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.6133556962013245,52.0,19.0
+198,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.6777768731117249,57.0,13.0
+199,FakeGuadalupeV2,10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.6812351942062378,57.0,13.0
+200,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.6694177985191345,64.0,11.0
+201,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.6655206084251404,64.0,11.0
+202,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.6719940900802612,58.0,14.0
+203,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.6612532138824463,69.5,14.0
+204,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.6113218069076538,58.5,11.0
+205,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.6075246930122375,56.0,11.0
+206,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.6139671802520752,58.5,19.0
+207,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.6078919768333435,57.0,19.0
+208,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.6857388019561768,56.5,18.0
+209,AerSim (IBM-Yonsei),10,QCNN,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.6775109767913818,64.0,18.0
+210,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.39496099948883057,86.5,19.0
+211,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.3814144432544708,90.0,19.0
+212,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.35236579179763794,88.0,19.0
+213,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.3008485436439514,92.0,19.0
+214,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.28038322925567627,91.5,18.0
+215,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.28833428025245667,92.0,18.0
+216,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.26744982600212097,89.0,16.0
+217,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.2392694503068924,92.5,16.0
+218,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.42087388038635254,87.5,19.0
+219,noiseless,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.41905853152275085,88.0,19.0
+220,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.5475647449493408,83.0,18.0
+221,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.5458771586418152,82.0,18.0
+222,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.4194101393222809,87.5,18.0
+223,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.36598721146583557,91.5,18.0
+224,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.4718715250492096,87.5,18.0
+225,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.4616820514202118,87.5,18.0
+226,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.38202816247940063,86.5,18.0
+227,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.3350313901901245,90.0,18.0
+228,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.5872620344161987,82.5,18.0
+229,FakeGuadalupeV2,10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.5828708410263062,80.0,18.0
+230,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.525753915309906,84.0,18.0
+231,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.5294905304908752,81.5,18.0
+232,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.39573192596435547,85.0,18.0
+233,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.3292100429534912,92.5,18.0
+234,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.4163232147693634,87.0,18.0
+235,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.43213051557540894,87.5,18.0
+236,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.3715673089027405,86.5,17.0
+237,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.31584393978118896,92.5,17.0
+238,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.5621889233589172,81.0,19.0
+239,AerSim (IBM-Yonsei),10,HQCNN-EZ,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.5507829785346985,84.0,19.0
+240,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.3905855417251587,88.5,18.0
+241,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.36989837884902954,91.5,18.0
+242,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.31350135803222656,89.0,17.0
+243,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.26705706119537354,91.5,17.0
+244,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.32047581672668457,87.5,8.0
+245,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.25614675879478455,91.5,8.0
+246,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.358167827129364,87.5,17.0
+247,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.36813193559646606,89.5,17.0
+248,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.2495766133069992,88.5,17.0
+249,noiseless,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.2505689561367035,92.0,17.0
+250,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.39118292927742004,87.0,18.0
+251,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.38562852144241333,90.5,18.0
+252,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.3330543041229248,88.5,17.0
+253,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.28935882449150085,91.0,17.0
+254,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.35671666264533997,84.0,11.0
+255,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2597942352294922,91.5,11.0
+256,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.4478250741958618,84.5,18.0
+257,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.44651931524276733,84.5,18.0
+258,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.31523534655570984,89.0,19.0
+259,FakeGuadalupeV2,10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.292695015668869,91.5,19.0
+260,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Train,0.44298285245895386,88.5,19.0
+261,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,0,Test,0.4399771988391876,89.0,19.0
+262,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Train,0.33482569456100464,85.5,14.0
+263,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,1,Test,0.27350878715515137,91.0,14.0
+264,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Train,0.3593307137489319,86.0,10.0
+265,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,2,Test,0.2666469216346741,91.5,10.0
+266,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Train,0.483175128698349,83.0,15.0
+267,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,3,Test,0.4730018675327301,87.0,15.0
+268,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Train,0.2859156131744385,90.5,17.0
+269,AerSim (IBM-Yonsei),10,HQCNN-EM,AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01,4,Test,0.261852502822876,92.0,17.0
+270,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),0,Train,0.3854949176311493,86.0,
+271,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),0,Test,0.37024036049842834,92.5,
+272,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),1,Train,0.36446666717529297,87.5,
+273,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),1,Test,0.33199962973594666,92.0,
+274,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),2,Train,0.48111727833747864,89.5,
+275,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),2,Test,0.48363953828811646,92.5,
+276,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),3,Train,0.5804784297943115,81.0,
+277,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),3,Test,0.5777218341827393,85.5,
+278,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),4,Train,0.49149903655052185,86.5,
+279,noiseless,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),4,Test,0.5261604189872742,88.0,
+280,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),0,Train,0.5817360877990723,81.5,
+281,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),0,Test,0.5837819576263428,81.0,
+282,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),1,Train,0.5719624757766724,78.0,
+283,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),1,Test,0.5419027209281921,81.0,
+284,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),2,Train,0.6840518116950989,65.0,
+285,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),2,Test,0.6850941181182861,66.5,
+286,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),3,Train,0.6661636233329773,52.5,
+287,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),3,Test,0.6622591614723206,52.0,
+288,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),4,Train,0.6767921447753906,56.5,
+289,FakeGuadalupeV2,10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),4,Test,0.6760494709014893,61.0,
+290,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),0,Train,0.5383174419403076,84.0,
+291,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),0,Test,0.5374212861061096,85.5,
+292,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),1,Train,0.40961945056915283,83.5,
+293,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),1,Test,0.3805621266365051,87.0,
+294,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),2,Train,0.6129769682884216,74.5,
+295,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),2,Test,0.5992119312286377,74.0,
+296,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),3,Train,0.632790744304657,60.0,
+297,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),3,Test,0.6177161335945129,62.5,
+298,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),4,Train,0.6494171619415283,72.5,
+299,AerSim (IBM-Yonsei),10,QCNN with NN (zero-padded),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl1_batch10_lr0.01(zero_padded),4,Test,0.6529409885406494,74.0,
+300,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,0,Train,0.609055757522583,87.0,
+301,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,0,Test,0.6009840965270996,92.5,
+302,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,1,Train,0.6046196222305298,83.5,
+303,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,1,Test,0.5797457695007324,92.5,
+304,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,2,Train,0.6022570133209229,89.5,
+305,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,2,Test,0.5958260893821716,91.5,
+306,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,3,Train,0.6162254810333252,85.0,
+307,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,3,Test,0.6191632747650146,90.5,
+308,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,4,Train,0.5849894881248474,87.5,
+309,noiseless,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,4,Test,0.5787437558174133,91.0,
+310,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,0,Train,0.6600914001464844,84.0,
+311,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,0,Test,0.6556249856948853,90.0,
+312,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,1,Train,0.6464527249336243,83.5,
+313,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,1,Test,0.6353791356086731,90.0,
+314,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,2,Train,0.6486821174621582,86.0,
+315,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,2,Test,0.6426092386245728,91.0,
+316,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,3,Train,0.6406315565109253,85.0,
+317,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,3,Test,0.643730640411377,87.5,
+318,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,4,Train,0.6322523951530457,86.5,
+319,FakeGuadalupeV2,10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,4,Test,0.6251119375228882,91.0,
+320,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,0,Train,0.6532485485076904,82.0,
+321,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,0,Test,0.6534284353256226,80.0,
+322,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,1,Train,0.6409396529197693,82.0,
+323,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,1,Test,0.6305252313613892,91.0,
+324,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,2,Train,0.6328216791152954,86.0,
+325,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,2,Test,0.6278759241104126,91.0,
+326,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,3,Train,0.6352542638778687,84.5,
+327,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,3,Test,0.6311767101287842,90.0,
+328,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,4,Train,0.6245930194854736,85.5,
+329,AerSim (IBM-Yonsei),10,HQCNN-EZ (linear readout),AngleEmbed_ConvSimple_PoolSimple_ReLU_hl0_batch10_lr0.01,4,Test,0.6146957874298096,91.0,

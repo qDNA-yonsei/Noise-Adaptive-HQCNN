@@ -1,0 +1,25 @@
+﻿Device,Dataset,Model,Qubits,binary_cross_entropy_loss,accuracy
+noiseless,Train,QCNN,10,0.6026 ± 0.0333,67.8 ± 15.7385
+noiseless,Train,QCNN with Classical NN,10,0.4554 ± 0.0939,86.7 ± 2.7295
+noiseless,Train,HQCNN-EZ,10,0.3432 ± 0.068,88.5 ± 1.9039
+noiseless,Train,HQCNN-EM,10,0.3265 ± 0.053,88.2 ± 0.6708
+noiseless,Test,QCNN,10,0.5969 ± 0.049,68.2 ± 17.8241
+noiseless,Test,QCNN with Classical NN,10,0.457 ± 0.1031,89.9 ± 3.765
+noiseless,Test,HQCNN-EZ,10,0.3258 ± 0.073,90.9 ± 1.8841
+noiseless,Test,HQCNN-EM,10,0.3024 ± 0.0611,91.2 ± 0.9747
+FakeGuadalupeV2,Train,QCNN,10,0.6546 ± 0.0224,58.7 ± 7.5465
+FakeGuadalupeV2,Train,QCNN with Classical NN,10,0.6371 ± 0.0569,67.1 ± 14.1041
+FakeGuadalupeV2,Train,HQCNN-EZ,10,0.4816 ± 0.0857,85.4 ± 2.4597
+FakeGuadalupeV2,Train,HQCNN-EM,10,0.3688 ± 0.0525,86.6 ± 2.2749
+FakeGuadalupeV2,Test,QCNN,10,0.6501 ± 0.0285,59.4 ± 8.7707
+FakeGuadalupeV2,Test,QCNN with Classical NN,10,0.6284 ± 0.0655,68.4 ± 14.2627
+FakeGuadalupeV2,Test,HQCNN-EZ,10,0.4583 ± 0.1083,86.2 ± 5.0075
+FakeGuadalupeV2,Test,HQCNN-EM,10,0.3348 ± 0.0783,89.8 ± 2.9917
+AerSim with backend noise,Train,QCNN,10,0.6505 ± 0.0351,59.1 ± 2.8592
+AerSim with backend noise,Train,QCNN with Classical NN,10,0.5766 ± 0.0802,75.0 ± 9.7468
+AerSim with backend noise,Train,HQCNN-EZ,10,0.4543 ± 0.0844,84.7 ± 2.3875
+AerSim with backend noise,Train,HQCNN-EM,10,0.3812 ± 0.0805,86.7 ± 2.8853
+AerSim with backend noise,Test,QCNN,10,0.6439 ± 0.0336,62.1 ± 5.5946
+AerSim with backend noise,Test,QCNN with Classical NN,10,0.5673 ± 0.0875,76.3 ± 9.9222
+AerSim with backend noise,Test,HQCNN-EZ,10,0.4315 ± 0.1092,87.6 ± 4.9548
+AerSim with backend noise,Test,HQCNN-EM,10,0.343 ± 0.1043,90.1 ± 2.0736

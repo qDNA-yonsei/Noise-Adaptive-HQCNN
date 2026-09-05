@@ -1,0 +1,9 @@
+Backend: ibm_boston
+Backend Description: None
+Backend version: 1.0.4
+Date and time: 2026-08-12 18:30:23
+Num_qubits: 156
+Backend Status: <bound method IBMBackend.status of <IBMBackend('ibm_boston')>>
+Backend Operations:[Instruction(name='id', num_qubits=1, num_clbits=0, params=[]), Instruction(name='rz', num_qubits=1, num_clbits=0, params=[Parameter(λ)]), Instruction(name='reset', num_qubits=1, num_clbits=0, params=[]), Instruction(name='x', num_qubits=1, num_clbits=0, params=[]), Instruction(name='measure', num_qubits=1, num_clbits=1, params=[]), Delay(duration=t[unit=dt]), Instruction(name='sx', num_qubits=1, num_clbits=0, params=[]), Instruction(name='cz', num_qubits=2, num_clbits=0, params=[]), <class 'qiskit.circuit.controlflow.if_else.IfElseOp'>]
+Backend Properties:<qiskit_ibm_runtime.models.backend_properties.BackendProperties object at 0x00000201BE63B530>
+Backend Configurations: <qiskit_ibm_runtime.models.backend_configuration.QasmBackendConfiguration object at 0x00000201B98D71D0>

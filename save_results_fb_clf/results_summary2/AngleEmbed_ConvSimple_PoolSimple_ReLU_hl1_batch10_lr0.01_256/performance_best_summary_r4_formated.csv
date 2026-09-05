@@ -1,0 +1,8 @@
+﻿Task,,,clf,clf
+Qubits,,,4,4
+Metric,,,BCE,Accuracy
+Dataset,Device,Model,,
+Train,IBM Yonsei,QCNN,0.482105,84.0
+Train,IBM Yonsei,HQCNN-EZ,0.535698,84.5
+Test,IBM Yonsei,QCNN,0.436845,90.5
+Test,IBM Yonsei,HQCNN-EZ,0.502663,93.0

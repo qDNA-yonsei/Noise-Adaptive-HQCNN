@@ -1,0 +1,6 @@
+﻿Task,task_name,task_name,task_name,task_name
+Qubits,10,10,10,10
+Device,Diff_loss_QCNN-NN,%_loss_improve_QCNN-NN,Diff_accu_QCNN-NN,%_accu_improve_QCNN-NN
+Dataset,,,,
+Train,0.0795 ± 0.1054,12.4098 ± 16.6107,14.4 ± 11.775,24.8806 ± 22.8966
+Test,0.0794 ± 0.1119,12.329 ± 17.6616,14.9667 ± 12.383,25.724 ± 24.8636

@@ -1,0 +1,10 @@
+﻿Task,,Classification Task,Classification Task,Classification Task,Classification Task
+Qubits,,10,10,10,10
+Metric,,Diff_loss_QCNN-NN,%_loss_improve_QCNN-NN,Diff_accu_QCNN-NN,%_accu_improve_QCNN-NN
+Dataset,Device,,,,
+Train,noiseless,0.1472 ± 0.1167,23.824 ± 18.5456,18.9 ± 16.3455,34.1468 ± 34.0739
+Train,FakeGuadalupeV2,0.0175 ± 0.0704,2.4629 ± 10.7488,8.4 ± 7.6925,13.5485 ± 12.1325
+Train,AerSim (IBM-Yonsei),0.0739 ± 0.0985,10.9425 ± 14.7312,15.9 ± 9.2628,26.9466 ± 15.9209
+Test,noiseless,0.14 ± 0.1363,22.3697 ± 21.7939,21.7 ± 17.6302,39.4969 ± 37.6546
+Test,FakeGuadalupeV2,0.0217 ± 0.079,3.0697 ± 12.1722,9.0 ± 8.9093,14.8795 ± 15.1704
+Test,AerSim (IBM-Yonsei),0.0766 ± 0.1013,11.5477 ± 15.3191,14.2 ± 6.6765,22.7955 ± 10.9928
